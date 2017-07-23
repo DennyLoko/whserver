@@ -1,7 +1,7 @@
 import sys
 import os
 import configargparse
-from queue import Queue
+from Queue import Queue
 
 
 def memoize(function):
